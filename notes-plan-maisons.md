@@ -3,20 +3,21 @@ Notes Fusion
 
 Schemas
 - Plan de masse avec l empreinte de la maison le mur mitoyen est oriente selon l axe y
-- Vue de cote indiquant les niveaux de ha
+- Vue de cote indiquant les niveaux de hauteur
 
 Questions
 - tracage dalle
 
 A faire
-- extrude48
 - cave
   finir mur terrasse
 - etage
   corriger hauteur mur sous-pente
-  profile chassir redondant
+  profile chassit redondant
+  poutre SB a 42 cm du bord du carrelage
+- reorganiser en bloc objet vers la fin
 
-
+----
 
 verifier meuble amis
 verifier projection toit
@@ -29,4 +30,3 @@ deux splits successifs
 escalier decalage de la premiere marche
 profile du placo
 
-extrude48 ??? apres dalle rdc
