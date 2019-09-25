@@ -1,5 +1,9 @@
 Notes Fusion
 - selectionner le mode orthographic sinon il y a un decalage en vue de dessus
+- fusion orbit
+  use shift + wheel button click to set the orbit center, use right click menu to reset/set
+  press shift + wheel button and move to orbit
+  constrained orbit is enabled on the lightened circle and the four cross bars : it is only visible when the object is small
 
 Schemas
 - Plan de masse avec l empreinte de la maison le mur mitoyen est oriente selon l axe y
