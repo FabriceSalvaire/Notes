@@ -5,6 +5,8 @@ Notes Fusion
   press shift + wheel button and move to orbit
   constrained orbit is enabled on the lightened circle and the four cross bars : it is only visible when the object is small
 
+
+
 Schemas
 - Plan de masse avec l empreinte de la maison le mur mitoyen est oriente selon l axe y
 - Vue de cote indiquant les niveaux de hauteur
