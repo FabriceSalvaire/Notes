@@ -1,3 +1,7 @@
+Notes Autodesk
+- Fusion and Inventor uses the kernel https://en.wikipedia.org/wiki/ShapeManager
+  https://ekinssolutions.com/wp-content/uploads/2018/11/GeometryAndBRep-AU2018.pdf
+
 Notes Fusion
 - selectionner le mode orthographic sinon il y a un decalage en vue de dessus
 - fusion orbit
