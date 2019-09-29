@@ -1,6 +1,15 @@
 Notes Autodesk
 - Fusion and Inventor uses the kernel https://en.wikipedia.org/wiki/ShapeManager
   https://ekinssolutions.com/wp-content/uploads/2018/11/GeometryAndBRep-AU2018.pdf
+  
+- les objets n'ont pas d'id, la fonction id() renvoie le pointeur d'un wrapper et la valeur est souvent identique, implementer un attribut
+- la doc pourrait être mieux formater pour les devs
+- debug non fonctionnel avec visual studio code, lint ???
+- on n'a pas accès à stdout/err pour debug
+- l'interface n'est pas pratique pour recharger un addin
+- la ligne de commande est très basique versus ipython
+- SWIG !!!
+- l'API pourrait être plus pythonique ou mieux documenté en ce sens
 
 Notes Fusion
 - selectionner le mode orthographic sinon il y a un decalage en vue de dessus
