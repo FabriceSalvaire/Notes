@@ -10,6 +10,7 @@ Notes Autodesk
 - la ligne de commande est très basique versus ipython
 - SWIG !!!
 - l'API pourrait être plus pythonique ou mieux documenté en ce sens
+- si le script par en vrille on ne peut pas le killer
 
 Notes Fusion
 - selectionner le mode orthographic sinon il y a un decalage en vue de dessus
