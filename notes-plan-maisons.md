@@ -49,6 +49,8 @@ Questions
 - tracage dalle
 
 A faire
+- erreur position panne sb
+- erreur niveau solive
 - cave
   finir mur terrasse
 - etage
